@@ -28,8 +28,6 @@ yarn:
 yarn
 ```
 
-ou
-
 npm:
 ```
 npm install
@@ -43,8 +41,6 @@ yarn:
 ```
 yarn start
 ```
-
-ou 
 
 npm:
 ```
